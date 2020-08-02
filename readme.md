@@ -1,0 +1,3 @@
+# MailBot
+Google Apps Script上で動くSlackアプリです。
+user.jsに記載されているToken類やmailer.jsに記載されているchannel id、userlistにuser idや名前を記入し、Webアプリケーションとして公開すると、アプリとして稼働します。
