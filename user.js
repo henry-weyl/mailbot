@@ -1,0 +1,8 @@
+var SLACK_VERIFICATION_TOKEN='';
+var SLACK_BOT_TOKEN = '';
+var SLACK_SLASHCOMMAND='/';
+var USER_NAME='user Name';
+var USER_ADDRESS='user@example\\.com'
+var TRELLO_TOKEN='';
+var TRELLO_KEY='';
+var TRELLO_IDORGANIZATIONS='';
